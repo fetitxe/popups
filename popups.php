@@ -5,12 +5,12 @@
  * @package   socialpopup
  * @author    Damian Logghe <info@timersys.com>
  * @license   GPL-2.0+
- * @link      http://www.timersys.com/plugins-wordpress/social-popup/
+ * @link      https://timersys.com/free-plugins/popups/
  * @copyright 2014 Damian Logghe
  *
  * @socialpopup
  * Plugin Name:       Popups - WordPress Popup
- * Plugin URI:        http://www.timersys.com/free-plugins/social-popup/
+ * Plugin URI:        https://timersys.com/free-plugins/popups/
  * Version: 		  1.9.3.5
  * Description: 	  Most complete free Popups plugin, scroll triggered popups, compatible with social networks, Gravity Forms, Ninja Forms, Contact form 7, Mailpoet, Mailchimp for WP, Postmatic, etc
  * Author: 			  timersys
